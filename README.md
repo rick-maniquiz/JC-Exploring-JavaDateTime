@@ -132,6 +132,7 @@ public class DateTimeLab {
 
 
 ```
+Start date after trying to modify it: 2025-09-01
 The original start date is still: 2025-09-01
 The new end date is: 2025-09-11
 ```
@@ -211,8 +212,7 @@ public class DateTimeLab {
 What do you think will be the output?
 
 ```
-The period between the two dates is: 
-2 years, 4 months, and 5 days.
+The period between the two dates is: 2 years, 4 months, and 5 days.
 ```
 
 **2. Observation:**
